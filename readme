@@ -1,1 +1,3 @@
-
+K means clustering is an unsupervised learning algorithm which is used to classify data into different groups. 
+In this case, A mall too some data from customers and then the objective is to find the best target customers.
+Using the KNN algorithm the dataser is divided into 5 cluters(which can be found using the elbow method).
